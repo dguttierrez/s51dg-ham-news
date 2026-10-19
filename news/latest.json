@@ -1,4 +1,181 @@
 {
-  "updated_utc": null,
-  "items": []
+  "updated_utc": "2026-10-19T07:52:34.242031+00:00",
+  "items": [
+    {
+      "id": "a75ace2431ee",
+      "title": "ANS-291 AMSAT News Service Weekly Bulletins",
+      "summary": "AMSAT News Service ANS-291 October 18, 2026 In this edition: * AMSAT 44th Annual Symposium Highlights * AMSAT-UK International Space Colloquium 2026 Highlights * 65 Years of Amateur Radio Satellites * Student-Built CubeSats Launch to Test Open-Source Radio and Intersatellite Communications * AMSAT Director Appoints Three New Ambassadors to Volunteer Network * Meteor Scatter Communications ... Read more",
+      "date": "2026-10-18",
+      "url": "https://www.amsat.org/ans-291-amsat-news-service-weekly-bulletins/",
+      "source": "AMSAT"
+    },
+    {
+      "id": "1f1d3945a214",
+      "title": "GB2RS News Script for 18 October 2026",
+      "summary": "Tap or click the link below to download this week’s news script News script for 18 October 2026 (MS Word document)",
+      "date": "2026-10-16",
+      "url": "https://rsgb.org/main/blog/news/gb2rs/gb2rs-news-scripts/2026/10/16/gb2rs-news-script-for-18-october-2026/",
+      "source": "RSGB"
+    },
+    {
+      "id": "760cf3343929",
+      "title": "Also in GB2RS this week…",
+      "summary": "The latest edition of RadCom Basics is now available via the RSGB app for web and mobile, with articles covering a range of topics from encouraging young radio enthusiasts into the STEM subjects – Science, Technology, Engineering and Maths – to how to build your own transmitter monitor. Open up RadCom Basics and read more [&#8230;]",
+      "date": "2026-10-16",
+      "url": "https://rsgb.org/main/blog/news/gb2rs/headlines/2026/10/16/also-in-gb2rs-this-week-541/",
+      "source": "RSGB"
+    },
+    {
+      "id": "7d4944c51688",
+      "title": "Rallies and Events News – 18 October 2026",
+      "summary": "On Sunday, 25 October, Galashiels Radio Rally and Open Day takes place at The Volunteer Hall, St Johns Street, Galashiels, TD1 3JX. Doors open at 11.15am, with access for the disabled from 11am. Admission is £3. There will be a ‘Bring and Buy’ sale, refreshments and traders. For more information, visit galaradioclub.co.uk Also on Sunday, 25 October, [&#8230;]",
+      "date": "2026-10-16",
+      "url": "https://rsgb.org/main/blog/news/gb2rs/rallies-and-events/2026/10/16/rallies-and-events-news-18-october-2026/",
+      "source": "RSGB"
+    },
+    {
+      "id": "d2f014151c9d",
+      "title": "Special Events News – 18 October 2026",
+      "summary": "Members of the Cray Valley Radio Society are operating special callsign GB80CV until 28 October to celebrate the club’s 80th anniversary. Visit cvrs.uk/cvrs80 for detailed information on the Oak Anniversary Award. QSL via Logbook of the World. Members of the Araucaria DX Group are using the special callsign ZW50B until the end of October to celebrate [&#8230;]",
+      "date": "2026-10-16",
+      "url": "https://rsgb.org/main/blog/news/gb2rs/special-events/2026/10/16/special-events-news-18-october-2026/",
+      "source": "RSGB"
+    },
+    {
+      "id": "a2d3c9be0951",
+      "title": "DX News – 18 October 2026",
+      "summary": "John, AE5X will be active as ZA/AE5X from various locations in Albania until 30 October. He is operating CW only on the 20m to 10m bands. Visit ae5x.blogspot.com for updates. Lui, YT3PL, Luc, F5RAV and Darko, E70A will be active on various bands and modes as C5R from The Gambia until 4 November, including an entry in the CQ WW DX SSB Contest. QSL direct to YT3PL and logsearch on Club Log. Bernhard, DL2GAC is active as H44MS from the Solomon [&#8230;]",
+      "date": "2026-10-16",
+      "url": "https://rsgb.org/main/blog/news/gb2rs/dx-news/2026/10/16/dx-news-18-october-2026/",
+      "source": "RSGB"
+    },
+    {
+      "id": "c02c9b04cf3a",
+      "title": "ANS-284 AMSAT News Service Weekly Bulletins",
+      "summary": "AMSAT News Service ANS-284 October 11, 2026 In this edition: * AMSAT Board of Directors Re-Elects Senior Officers for 2027 * AMSAT Organizations Launch Six Satellites on Transporter-18 * KENSAT Showcases Individual-Built Amateur Radio CubeSat * Google’s Project Suncatcher Begins Testing AI Computing in Orbit * Blue Origin Unveils 65-Foot Solar Power Tower for Lunar ... Read more",
+      "date": "2026-10-11",
+      "url": "https://www.amsat.org/ans-284-amsat-news-service-weekly-bulletins/",
+      "source": "AMSAT"
+    },
+    {
+      "id": "a93654be7da9",
+      "title": "ANS-277 AMSAT News Service Weekly Bulletins",
+      "summary": "October 4, 2026 In this edition: The AMSAT(R) News Service bulletins are a free, weekly news and information service of AMSAT, the Radio Amateur Satellite Corporation. ANS publishes news related to Amateur Radio in Space including reports on the activities of a worldwide group of Amateur Radio operators who share an active interest in designing, ... Read more",
+      "date": "2026-10-04",
+      "url": "https://www.amsat.org/ans-277-amsat-news-service-weekly-bulletins/",
+      "source": "AMSAT"
+    },
+    {
+      "id": "5dba573f68eb",
+      "title": "ANS-270 AMSAT News Service Weekly Bulletins",
+      "summary": "AMSAT News Service ANS-270September 27, 2026 In this edition: ARISS SSTV Series 33 to Feature Student Education Images October 2-6 UNNE-1B Coordinated as Transporter-18 Prepares to Loft New Amateur Payloads AMSAT-DL&#8217;s ERMINAZ-2 PocketQube Trio Set for October 1 Launch on Transporter-18 OrbitDeck for iOS Brings Full-Featured Satellite Tracking to iPhone and iPad Recent IARU Amateur ... Read more",
+      "date": "2026-09-27",
+      "url": "https://www.amsat.org/ans-270-amsat-news-service-weekly-bulletins/",
+      "source": "AMSAT"
+    },
+    {
+      "id": "ffe8c4d6cb37",
+      "title": "ANS-263 AMSAT News Service Weekly Bulletins",
+      "summary": "AMSAT News Service ANS-263September 20, 2026 In this edition: * AMSAT Board of Directors Election Results* Call for Presentations: 44th AMSAT Space Symposium* AO-7 Again Captures Attention* Binar-567 CubeSat Trio Prepared for Launch * LEO.space Free Platform for Tracking Satellites* NASA’s Moon Orbiter Spots ‘Once-in-Century’ Crater * Changes to AMSAT TLE Distribution for Sept. 18, 2026* Three ... Read more",
+      "date": "2026-09-20",
+      "url": "https://www.amsat.org/ans-228-amsat-news-service-weekly-bulletins-2/",
+      "source": "AMSAT"
+    },
+    {
+      "id": "ea380ae196fa",
+      "title": "A Bandpass Filter Pulls In The Signals",
+      "summary": "It&#8217;s an unfortunate side effect of proximity to a large transmitter that the received signal can overload a receiver&#8217;s front end even when tuned to other frequencies. [Rfrht]&#8217;s had this &#8230;read more",
+      "date": "2026-09-20",
+      "url": "https://hackaday.com/2026/09/20/a-bandpass-filter-pulls-in-the-signals/",
+      "source": "Hackaday Ham Radio"
+    },
+    {
+      "id": "c1e06e4d4bbc",
+      "title": "ANS-256 AMSAT News Service Weekly Bulletins",
+      "summary": "AMSAT News Service ANS-256 September 13, 2026 In this edition: * Frank Hoonhaut, KJ7DZ, Sweeps AMSAT Award Ladder * AMSAT Youth Initiative Adds &#8220;Satellite and Astronomy&#8221; Course * ISAR Launches 2 Ham Band Satellites * The Addictive World of Amateur Radio Satellites – An OARC Member Talk * World Radio Broadcast &#38; &#8220;Send Your Name ... Read more",
+      "date": "2026-09-13",
+      "url": "https://www.amsat.org/ans-256-amsat-news-service-weekly-bulletins-2/",
+      "source": "AMSAT"
+    },
+    {
+      "id": "a6f7532717fa",
+      "title": "ANS-249 AMSAT News Service Weekly Bulletins",
+      "summary": "AMSAT News Service ANS-249 September 6, 2026 In this edition: * AMSAT Board Election Voting Deadline Approaches * ARISS Announces New Leadership and Operations Appointments * July/August 2026 Issue of The AMSAT Journal Now Available * SatNOGS Rolls Out Major Network and Database Updates * Updated VUCC &#38; DXCC Satellite Standings for September 2026 * ... Read more",
+      "date": "2026-09-06",
+      "url": "https://www.amsat.org/ans-249-amsat-news-service-weekly-bulletins/",
+      "source": "AMSAT"
+    },
+    {
+      "id": "535dd807eb51",
+      "title": "ANS-242 AMSAT News Service Weekly Bulletins",
+      "summary": "August 30,2026 In this edition: The AMSAT(R) News Service bulletins are a free, weekly news and information service of AMSAT, the Radio Amateur Satellite Corporation. ANS publishes news related to Amateur Radio in Space including reports on the activities of a worldwide group of Amateur Radio operators who share an active interest in designing, building, ... Read more",
+      "date": "2026-08-30",
+      "url": "https://www.amsat.org/ans-242-amsat-news-service-weekly-bulletins/",
+      "source": "AMSAT"
+    },
+    {
+      "id": "1a0ae34d2be2",
+      "title": "ANS-235 AMSAT News Service Weekly Bulletins",
+      "summary": "AMSAT News Service ANS-214August 23, 2026 In this edition: Menon, Adenot Complete Spacewalk to Remove Failed Station Antenna Dr. Carlos Miranda Appointed ARISS-USA Director of Education Student-Built JAMX01 and BY70-4 Set for August 25 Launch Recent IARU Amateur Satellite Frequency Coordination Activity Petition Seeks Amateur Transponder Aboard Bangladesh Satellite-2 Huntsville Hamfest Hosts ARRL National Convention ... Read more",
+      "date": "2026-08-23",
+      "url": "https://www.amsat.org/ans-235-amsat-news-service-weekly-bulletins/",
+      "source": "AMSAT"
+    },
+    {
+      "id": "b2fd4233d37c",
+      "title": "555 Makes a Useful Beat Frequency Oscillator",
+      "summary": "If you&#8217;ve got a cheap ham rig, it might not be very practical for you to receive certain transmissions out of the box. However, if you were to hack in &#8230;read more",
+      "date": "2026-08-22",
+      "url": "https://hackaday.com/2026/08/22/555-makes-a-useful-beat-frequency-oscillator/",
+      "source": "Hackaday Ham Radio"
+    },
+    {
+      "id": "eef2ed7df556",
+      "title": "ANS-228 AMSAT News Service Weekly Bulletins",
+      "summary": "AMSAT News Service ANS-228August 16, 2026 In this edition: * Call for Presentations: 44th AMSAT Space Symposium* AMSAT CubeSatSim Featured in QST Magazine* More AMSAT Contests and Awards* Norwegian Amateurs Experiment with Satellite Voice Control* ARISS Receives Challenger-7 Recognition* Voting Still in Progress for Board of Directors* Satellite DXpedition To The Bahamas This Week* Changes ... Read more",
+      "date": "2026-08-16",
+      "url": "https://www.amsat.org/ans-228-amsat-news-service-weekly-bulletins/",
+      "source": "AMSAT"
+    },
+    {
+      "id": "ff64f16f1ead",
+      "title": "Postal IRCs are Almost a Thing of the Past",
+      "summary": "Have you ever found out that something you remember from your youth is now gone, and you didn&#8217;t even notice? If you are a certain age, you might feel that &#8230;read more",
+      "date": "2026-07-21",
+      "url": "https://hackaday.com/2026/07/21/postal-ircs-are-almost-a-thing-of-the-past/",
+      "source": "Hackaday Ham Radio"
+    },
+    {
+      "id": "61eb6b6f2270",
+      "title": "Could Reticulum Power a Post-Internet Network?",
+      "summary": "These days, it is easy to think you always have access to the Internet. But some wonder if &#8212; in spite of its ARPANET, nuclear-war-planning heritage &#8212; you can actually &#8230;read more",
+      "date": "2026-07-20",
+      "url": "https://hackaday.com/2026/07/20/could-reticulum-power-a-post-internet-network/",
+      "source": "Hackaday Ham Radio"
+    },
+    {
+      "id": "f9c89cce54dc",
+      "title": "Your AI Ham Radio Buddy",
+      "summary": "AI chatbots are everywhere these days, and they seem to &#8220;know&#8221; about everything. But while that is a strength, it can sometimes be a weakness because it isn&#8217;t laser-focused on &#8230;read more",
+      "date": "2026-07-18",
+      "url": "https://hackaday.com/2026/07/18/your-ai-ham-radio-buddy/",
+      "source": "Hackaday Ham Radio"
+    },
+    {
+      "id": "27173c46810d",
+      "title": "Every Ham Shack Needs a Ham Clock",
+      "summary": "Every ham radio shack needs a clock; ideally one with operator-friendly features like multiple time zones and more. [cburns42] found that most solutions relied too much on an internet connection &#8230;read more",
+      "date": "2026-03-16",
+      "url": "https://hackaday.com/2026/03/16/every-ham-shack-needs-a-ham-clock/",
+      "source": "Hackaday Ham Radio"
+    },
+    {
+      "id": "aec21e754215",
+      "title": "Pi Pico Learns Morse Code",
+      "summary": "When [101 Things] didn&#8217;t want to copy Morse code, he decided to build a Pi Pico system to read it for him. On the face of it, this doesn&#8217;t seem &#8230;read more",
+      "date": "2026-02-10",
+      "url": "https://hackaday.com/2026/02/10/pi-pico-learns-morse-code/",
+      "source": "Hackaday Ham Radio"
+    }
+  ]
 }
