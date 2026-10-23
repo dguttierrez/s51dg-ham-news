@@ -1,28 +1,44 @@
 {
-  "updated_utc": "2026-10-22T11:47:33.350050+00:00",
+  "updated_utc": "2026-10-23T11:34:26.800176+00:00",
   "items": [
     {
-      "id": "57b81b85093d",
-      "title": "November 2026 – Strategic priorities update",
-      "summary": "Virtual engagement: making it work for every radio amateur The RSGB is working to develop strategic topics that can focus effort, encourage innovation and drive meaningful change across amateur radio. Virtual Engagement is a key aspect of that strategy because it affects how people discover the hobby, learn new skills, access expertise and remain connected [&#8230;]",
-      "date": "2026-10-21",
-      "url": "https://rsgb.org/main/blog/news/rsgb-notices/2026/10/21/november-2026-strategic-priorities-update/",
+      "id": "1cc1b56aafaf",
+      "title": "News for England Midlands – 25 October 2026",
+      "summary": "Bolsover Amateur Radio Society meets on the first and third Tuesday of the month at Hillstown Village Hall, S44 6LW from 8pm. Further information and reminders for meetings can be found on the Society’s Facebook page @bolsoverars Contact Richard, G0RRZ on 07905 868 221 for more information. Bromsgrove and District Amateur Radio Club has nets [&#8230;]",
+      "date": "2026-10-23",
+      "url": "https://rsgb.org/main/blog/all-regions/region-5/2026/10/23/news-for-england-midlands-25-october-2026/",
       "source": "RSGB"
     },
     {
-      "id": "79cdd18f7ec1",
-      "title": "Trevor Hughes, G4WKJ, SK",
-      "summary": "It is with much sadness, that we share the news that our former, and much respected, RSGB National Radio Centre (NRC) Volunteer Trevor Hughes, G4WKJ has passed away. A great lover of music and a talented musician, Trevor was also the designer of the hugely popular SNAIL Morse key that is widely used, not just [&#8230;]",
-      "date": "2026-10-20",
-      "url": "https://rsgb.org/main/blog/news/silent-keys/2026/10/20/trevor-hughes-g4wkj-sk/",
+      "id": "f2259e171022",
+      "title": "News for England North – 25 October 2026",
+      "summary": "The OPS-2m-NW Net is a regular VHF simplex net for licensed amateur radio operators across North West England, organised and run by the M0KKN Club. The net takes place fortnightly on 145.500MHz at 7.30pm. Operators are asked to QSY as directed by the net controller. All licence levels are welcome to join in. Barnsley and [&#8230;]",
+      "date": "2026-10-23",
+      "url": "https://rsgb.org/main/blog/all-regions/region-3/2026/10/23/news-for-england-north-25-october-2026/",
       "source": "RSGB"
     },
     {
-      "id": "f25ae9167515",
-      "title": "7 December – The MSF atomic radio time signal: bringing time to millions by Andrew Wilson, M6WSA",
-      "summary": "The presentation Why is time important? It seems like a simple question, but behind it lies an interconnected world that helps bind modern society together. MSF has been broadcasting time from the UK since the 1940s, predating the advent of modern atomic timekeeping. So how has a service that began as a radio time signal remained [&#8230;]",
-      "date": "2026-10-19",
-      "url": "https://rsgb.org/main/blog/tonight-at-eight/2026/10/19/7-december-the-msf-atomic-radio-time-signal-bringing-time-to-millions-by-andrew-wilson-m6wsa/",
+      "id": "b60b67f5e5ad",
+      "title": "News for Northern Ireland – 25 October 2026",
+      "summary": "For details of Bangor and District Amateur Radio Society’s events and activities, visit the Society’s Facebook page or email gi6fzi@yahoo.com gi6fzi@yahoo.com For details of Bushvalley Amateur Radio Club events and activities, visit bushvalleyarc.org or email bushvalleyarc@gmail.com Carrickfergus Amateur Radio Group’s regular Tuesday meeting is at 7pm in Carrick Elim Church, North Road, Carrickfergus. For details of [&#8230;]",
+      "date": "2026-10-23",
+      "url": "https://rsgb.org/main/blog/all-regions/region-8/2026/10/23/news-for-northern-ireland-25-october-2026/",
+      "source": "RSGB"
+    },
+    {
+      "id": "f44f24be2101",
+      "title": "News for Scotland – 25 October 2026",
+      "summary": "The Fourteenth Scottish Microwave Round Table GMRT-2026 takes place on Saturday at the Museum of Communication, Burntisland, Fife. An interesting programme of speakers has been arranged, microwave test facilities will be provided and there will be an opportunity to buy components and microwave-related items. The event runs from 10am until 5pm and a buffet lunch is [&#8230;]",
+      "date": "2026-10-23",
+      "url": "https://rsgb.org/main/blog/all-regions/region-1/2026/10/23/news-for-scotland-25-october-2026/",
+      "source": "RSGB"
+    },
+    {
+      "id": "a06807346a8e",
+      "title": "News for England South East – 25 October 2026",
+      "summary": "Andover Radio Amateur Club has a net on Sundays on 70.475MHz, starting at 11am. There is also a net on Mondays at 8pm on 145.275MHz. From 8pm on Thursdays there is a net on GB7KT. More details are available at arac.org.uk Contact: Mal, G8FHI, mal.g8fhi@btinternet.com Banbury Amateur Radio Society has a net on 144.5125MHz FM [&#8230;]",
+      "date": "2026-10-23",
+      "url": "https://rsgb.org/main/blog/all-regions/region-9/2026/10/23/news-for-england-south-east-25-october-2026/",
       "source": "RSGB"
     },
     {
@@ -32,22 +48,6 @@
       "date": "2026-10-18",
       "url": "https://www.amsat.org/ans-291-amsat-news-service-weekly-bulletins/",
       "source": "AMSAT"
-    },
-    {
-      "id": "1f1d3945a214",
-      "title": "GB2RS News Script for 18 October 2026",
-      "summary": "Tap or click the link below to download this week’s news script News script for 18 October 2026 (MS Word document)",
-      "date": "2026-10-16",
-      "url": "https://rsgb.org/main/blog/news/gb2rs/gb2rs-news-scripts/2026/10/16/gb2rs-news-script-for-18-october-2026/",
-      "source": "RSGB"
-    },
-    {
-      "id": "760cf3343929",
-      "title": "Also in GB2RS this week…",
-      "summary": "The latest edition of RadCom Basics is now available via the RSGB app for web and mobile, with articles covering a range of topics from encouraging young radio enthusiasts into the STEM subjects – Science, Technology, Engineering and Maths – to how to build your own transmitter monitor. Open up RadCom Basics and read more [&#8230;]",
-      "date": "2026-10-16",
-      "url": "https://rsgb.org/main/blog/news/gb2rs/headlines/2026/10/16/also-in-gb2rs-this-week-541/",
-      "source": "RSGB"
     },
     {
       "id": "c02c9b04cf3a",
