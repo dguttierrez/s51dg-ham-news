@@ -1,6 +1,14 @@
 {
-  "updated_utc": "2026-10-24T12:10:04.263427+00:00",
+  "updated_utc": "2026-10-25T11:21:46.316402+00:00",
   "items": [
+    {
+      "id": "3e26517a2f56",
+      "title": "ANS-298 AMSAT News Service Weekly Bulletins",
+      "summary": "AMSAT News Service ANS-298October 25, 2026 In this edition: * AMSAT Youth Initiative Featured in Florida News* ERMINAZ-2 Satellites Receive OSCAR Numbers* Where Does Space Begin?* Falcon 9 Launches Bandwagon-5 Rideshare Mission* Greek-Built Satellite Launched for Kazakh School* San Diego Balloon Launch Draws in High School Students* OsTrax Now Available for Windows, macOS, and Ubuntu* ... Read more",
+      "date": "2026-10-25",
+      "url": "https://www.amsat.org/ans-298-amsat-news-service-weekly-bulletins/",
+      "source": "AMSAT"
+    },
     {
       "id": "599762f8234c",
       "title": "Essential planned maintenance: Possible website downtime",
@@ -128,14 +136,6 @@
       "date": "2026-08-22",
       "url": "https://hackaday.com/2026/08/22/555-makes-a-useful-beat-frequency-oscillator/",
       "source": "Hackaday Ham Radio"
-    },
-    {
-      "id": "eef2ed7df556",
-      "title": "ANS-228 AMSAT News Service Weekly Bulletins",
-      "summary": "AMSAT News Service ANS-228August 16, 2026 In this edition: * Call for Presentations: 44th AMSAT Space Symposium* AMSAT CubeSatSim Featured in QST Magazine* More AMSAT Contests and Awards* Norwegian Amateurs Experiment with Satellite Voice Control* ARISS Receives Challenger-7 Recognition* Voting Still in Progress for Board of Directors* Satellite DXpedition To The Bahamas This Week* Changes ... Read more",
-      "date": "2026-08-16",
-      "url": "https://www.amsat.org/ans-228-amsat-news-service-weekly-bulletins/",
-      "source": "AMSAT"
     },
     {
       "id": "ff64f16f1ead",
