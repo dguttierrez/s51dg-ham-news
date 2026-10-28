@@ -1,5 +1,5 @@
 {
-  "updated_utc": "2026-10-27T12:06:52.550846+00:00",
+  "updated_utc": "2026-10-28T12:48:53.764272+00:00",
   "items": [
     {
       "id": "3e26517a2f56",
@@ -8,14 +8,6 @@
       "date": "2026-10-25",
       "url": "https://www.amsat.org/ans-298-amsat-news-service-weekly-bulletins/",
       "source": "AMSAT"
-    },
-    {
-      "id": "599762f8234c",
-      "title": "Essential planned maintenance: Possible website downtime",
-      "summary": "We are undertaking essential maintenance on a web server today and over the weekend. During this period some online services may become temporarily unavailable, but we do not now expect any significant disruptions to service. We appreciate your patience in this matter, and apologise in advance for any inconvenience caused by these works.",
-      "date": "2026-10-23",
-      "url": "https://rsgb.org/main/blog/news/rsgb-notices/2026/10/23/essential-planned-maintenance-possible-website-downtime/",
-      "source": "RSGB"
     },
     {
       "id": "ee55d6d5cb02",
@@ -47,6 +39,14 @@
       "summary": "Team 7P8GE will be active from Lesotho until Thursday, 29 October. They are operating CW, SSB and digital modes on the 80 to 10m bands with up to five stations. QSL is via DL7UFR, direct or bureau. Team S9R will be active from Tamarindos, Sao Tome until Saturday, 31 October. They are operating CW, SSB, [&#8230;]",
       "date": "2026-10-23",
       "url": "https://rsgb.org/main/blog/news/gb2rs/dx-news/2026/10/23/dx-news-25-october-2026/",
+      "source": "RSGB"
+    },
+    {
+      "id": "37b19308aab4",
+      "title": "Contest News – 25 October 2026",
+      "summary": "The UK Microwave Group EHF Band Contest runs from 0800UTC to 2000UTC today, 25 October. Using all modes on the 76 to 241GHz bands, the exchange is signal report, serial number and locator. The RSGB HF FT4 Contest number 10 runs from 2000UTC to 2200UTC tomorrow, 26 October. Using FT4 on the 80m to 10m [&#8230;]",
+      "date": "2026-10-23",
+      "url": "https://rsgb.org/main/blog/news/gb2rs/contest-news/2026/10/23/contest-news-25-october-2026/",
       "source": "RSGB"
     },
     {
