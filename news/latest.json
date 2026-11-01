@@ -1,6 +1,14 @@
 {
-  "updated_utc": "2026-10-31T13:48:48.146138+00:00",
+  "updated_utc": "2026-11-01T13:16:41.263536+00:00",
   "items": [
+    {
+      "id": "8f671b5248b3",
+      "title": "ANS-305 AMSAT News Service Weekly Bulletins",
+      "summary": "AMSAT News Service ANS-305November 1, 2026 In this edition: AMSAT OSCAR Satellite Status Page &#8211; New URL Spacewalkers Install Seventh Roll-Out Solar Array; Final Installation Set for November 5 ARISS SSTV Series 34 Concludes UNNE-1B Heard Around the World as AMSAT-EA Commissions Its Newest PocketQubes IARU Coordinates HADES-L and PVDX; Three Requests Declined, Four New ... Read more",
+      "date": "2026-11-01",
+      "url": "https://www.amsat.org/ans-305-amsat-news-service-weekly-bulletins/",
+      "source": "AMSAT"
+    },
     {
       "id": "55056411cca2",
       "title": "GB2RS News Script for 1 November 2026",
@@ -119,14 +127,6 @@
       "summary": "August 30,2026 In this edition: The AMSAT(R) News Service bulletins are a free, weekly news and information service of AMSAT, the Radio Amateur Satellite Corporation. ANS publishes news related to Amateur Radio in Space including reports on the activities of a worldwide group of Amateur Radio operators who share an active interest in designing, building, ... Read more",
       "date": "2026-08-30",
       "url": "https://www.amsat.org/ans-242-amsat-news-service-weekly-bulletins/",
-      "source": "AMSAT"
-    },
-    {
-      "id": "1a0ae34d2be2",
-      "title": "ANS-235 AMSAT News Service Weekly Bulletins",
-      "summary": "AMSAT News Service ANS-214August 23, 2026 In this edition: Menon, Adenot Complete Spacewalk to Remove Failed Station Antenna Dr. Carlos Miranda Appointed ARISS-USA Director of Education Student-Built JAMX01 and BY70-4 Set for August 25 Launch Recent IARU Amateur Satellite Frequency Coordination Activity Petition Seeks Amateur Transponder Aboard Bangladesh Satellite-2 Huntsville Hamfest Hosts ARRL National Convention ... Read more",
-      "date": "2026-08-23",
-      "url": "https://www.amsat.org/ans-235-amsat-news-service-weekly-bulletins/",
       "source": "AMSAT"
     },
     {
