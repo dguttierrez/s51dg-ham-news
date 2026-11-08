@@ -1,6 +1,14 @@
 {
-  "updated_utc": "2026-11-07T14:17:03.654436+00:00",
+  "updated_utc": "2026-11-08T13:19:09.520238+00:00",
   "items": [
+    {
+      "id": "16255960427b",
+      "title": "ANS-312 AMSAT News Service Weekly Bulletins",
+      "summary": "November 8, 2026 In this edition: The AMSAT(R) News Service bulletins are a free, weekly news and information service of AMSAT, the Radio Amateur Satellite Corporation. ANS publishes news related to Amateur Radio in Space including reports on the activities of a worldwide group of Amateur Radio operators who share an active interest in designing, ... Read more",
+      "date": "2026-11-08",
+      "url": "https://www.amsat.org/ans-312-amsat-news-service-weekly-bulletins/",
+      "source": "AMSAT"
+    },
     {
       "id": "dae38d155303",
       "title": "146-147MHz NoV extension agreed by Ofcom",
@@ -119,14 +127,6 @@
       "summary": "AMSAT News Service ANS-249 September 6, 2026 In this edition: * AMSAT Board Election Voting Deadline Approaches * ARISS Announces New Leadership and Operations Appointments * July/August 2026 Issue of The AMSAT Journal Now Available * SatNOGS Rolls Out Major Network and Database Updates * Updated VUCC &#38; DXCC Satellite Standings for September 2026 * ... Read more",
       "date": "2026-09-06",
       "url": "https://www.amsat.org/ans-249-amsat-news-service-weekly-bulletins/",
-      "source": "AMSAT"
-    },
-    {
-      "id": "535dd807eb51",
-      "title": "ANS-242 AMSAT News Service Weekly Bulletins",
-      "summary": "August 30,2026 In this edition: The AMSAT(R) News Service bulletins are a free, weekly news and information service of AMSAT, the Radio Amateur Satellite Corporation. ANS publishes news related to Amateur Radio in Space including reports on the activities of a worldwide group of Amateur Radio operators who share an active interest in designing, building, ... Read more",
-      "date": "2026-08-30",
-      "url": "https://www.amsat.org/ans-242-amsat-news-service-weekly-bulletins/",
       "source": "AMSAT"
     },
     {
