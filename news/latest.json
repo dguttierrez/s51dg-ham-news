@@ -1,6 +1,14 @@
 {
-  "updated_utc": "2026-11-21T15:31:46.198297+00:00",
+  "updated_utc": "2026-11-22T14:30:09.867932+00:00",
   "items": [
+    {
+      "id": "75dcdcc8912f",
+      "title": "ANS-326 AMSAT News Service Weekly Bulletins",
+      "summary": "&#160; AMSAT News Service ANS-326November 22, 2026 In this edition: * AMSAT Releases Edited Videos from 2026 Symposium* Amateur Radio Operators Command Satellite to Run Doom by Voice* DFW AMSAT Information Net-East Invites Operators to Continue Tuesday Tradition* 102nd Edition of The ARRL Handbook Now Available* NASA Explores Commercial Servicing Options for Hubble Space Telescope* ... Read more",
+      "date": "2026-11-22",
+      "url": "https://www.amsat.org/ans-326-amsat-news-service-weekly-bulletins-2/",
+      "source": "AMSAT"
+    },
     {
       "id": "75cae9a187bc",
       "title": "ANS-319 AMSAT News Service Weekly Bulletins",
@@ -80,14 +88,6 @@
       "date": "2026-09-20",
       "url": "https://hackaday.com/2026/09/20/a-bandpass-filter-pulls-in-the-signals/",
       "source": "Hackaday Ham Radio"
-    },
-    {
-      "id": "c1e06e4d4bbc",
-      "title": "ANS-256 AMSAT News Service Weekly Bulletins",
-      "summary": "AMSAT News Service ANS-256 September 13, 2026 In this edition: * Frank Hoonhaut, KJ7DZ, Sweeps AMSAT Award Ladder * AMSAT Youth Initiative Adds &#8220;Satellite and Astronomy&#8221; Course * ISAR Launches 2 Ham Band Satellites * The Addictive World of Amateur Radio Satellites – An OARC Member Talk * World Radio Broadcast &#38; &#8220;Send Your Name ... Read more",
-      "date": "2026-09-13",
-      "url": "https://www.amsat.org/ans-256-amsat-news-service-weekly-bulletins-2/",
-      "source": "AMSAT"
     },
     {
       "id": "b2fd4233d37c",
